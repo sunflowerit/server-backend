@@ -1,3 +1,4 @@
 # generated from manifests external_dependencies
+odoorpc
 pymssql<=2.2.5
 sqlalchemy
